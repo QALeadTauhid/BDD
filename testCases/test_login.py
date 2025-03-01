@@ -44,8 +44,8 @@
 #
 # class Test_001_Login:
 #     baseURL = "https://admin-ptm-panel.pay2me.co/login"
-#     username = "itteam.9@aieus.com"
-#     password = "sVs$j3z201IV"
+#     username = "-------"
+#     password = "------------"
 #
 #     def test_homepageTitle(self, setup):
 #         self.driver = setup
